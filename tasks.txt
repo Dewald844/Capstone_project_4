@@ -1,0 +1,8 @@
+1 charlie towerboxes salkf_d 50168-85123 2020-08-05 no
+2 charlie towerboxes salkf_d 50168-85123 2020-08-05 no
+3 dewald towerboxes salkf_d 50168-85123 2020-08-05 no
+4 charlie towerboxes salkf_d 50168-85123 2020-08-05 Yes
+5 charlie dewald salkf_d 50168-85123 2020-08-05 Yes
+6 charlie towerboxes salkf_d 50168-85123 05-08-2020 Yes
+7 charlie towerboxes salkf_d 50168-85123 05-08-2020 Yes
+8 charlie towerboxes salkf_d 50168-85123 05-08-2020 Yes
